@@ -1,5 +1,5 @@
 body {
-	background-color: #E26A2C;
+	background-color: #F0E9D2;
 }
 
 /*Navbar*/
@@ -11,6 +11,7 @@ body {
 
 div.welcome-frame h2{
 	margin-top: 30px;
+	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-weight: 900;
 	font-size: 3rem;
@@ -18,18 +19,46 @@ div.welcome-frame h2{
 
 /*CV Personal Info*/
 .cv-frame {
-	text-align: center;
 	padding: 30px;
 }
 
 .cv-image {
 	width: 300px;
 	height: 300px;
+	display: block;
+	margin: 0 auto;
 	border-radius: 100%;
 }
 
 div.cv-frame h1{
+	margin: 0 auto;
+	text-align: center;
 	font-family: 'Lobster', cursive;
 	font-weight: 900;
 	font-size: 4.5rem;
+}
+
+.container {
+	margin-top: 40px;
+}
+
+.paired_text{
+	display: table;
+}
+
+.key{
+	display: table-cell;
+	vertical-align: middle;
+	text-align: left;
+	font-family: 'Lobster', cursive;
+	font-weight: 300;
+	font-size: 3rem;
+}
+
+.value{
+	color: #6b6b6b;
+}
+
+.sub_key{
+	font-size: 2rem;
 }

@@ -24,12 +24,18 @@ let job_experience = {
     "MERK4:": {
         period: "01/02/2013 - 01/07/2015",
         position: "iOS Developer",
-        description: "to be completed"
+        description: `
+        In this job I was responsible for creating iOS apps based on company requirements. <br>
+        - Created app for storing event assistants personal data in a database. <br>
+        - Concept and first development stages of a marketing videogame.
+        `
     },
     "Distribuidora JIFE S.A. de C.V.:": {
         period: "01/04/2018 - 16/06/2018",
         position: "iOS/Android Developer",
-        description: "to be completed"
+        description: `
+        In this job I was responsible for creating iOS/Android 
+        `
     },
     "APPWHERE S.A. de C.V.:": {
         period: "16/06/2018 - 16/06/2020",

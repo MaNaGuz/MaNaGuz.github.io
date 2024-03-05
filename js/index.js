@@ -6,14 +6,18 @@ let personal_info = {
 
 let skills = {
     "Python:": "⭐⭐⭐⭐ ✰",
+    "Bash:": "⭐⭐⭐ ✰ ✰",
+    "OracleSQL:": "⭐⭐⭐ ✰ ✰",
+    "MongoDB:": "⭐⭐⭐ ✰ ✰",
+    "Redis:": "⭐⭐⭐ ✰ ✰",
+    "Kafka:": "⭐⭐⭐ ✰ ✰",
+    "Azure:": "⭐⭐ ✰ ✰ ✰",
+    "Anaconda Enterprise:": "⭐⭐ ✰ ✰ ✰",
     "C++:": "⭐⭐⭐ ✰ ✰",
     "C:": "⭐⭐⭐ ✰ ✰",
     "Swift:": "⭐⭐⭐ ✰ ✰",
     "Javascript:": "⭐⭐⭐ ✰ ✰",
     "HTML:": "⭐⭐⭐ ✰ ✰",
-    "Bash:": "⭐⭐ ✰ ✰ ✰",
-    "OracleSQL:": "⭐⭐ ✰ ✰ ✰",
-    "MongoDB:": "⭐⭐ ✰ ✰ ✰",
     "Java:": "⭐⭐ ✰ ✰ ✰",
     "Objective-C:": "⭐⭐ ✰ ✰ ✰",
     "Matlab:": "⭐⭐ ✰ ✰ ✰",
@@ -73,9 +77,9 @@ let job_experience = {
         &nbsp&nbsp&nbsp <em class="remarkable">Python, Oracle, Mongo, PowerBI</em><br>
         `
     },
-    "Actual Working Place:": {
+    "New Era Tech (Actual Working Place):": {
         period: "19/10/2020 - Actual",
-        position: "Python/Software Developer",
+        position: "Python/Software Developer/DevOps",
         description: `
         In this position I'm responsible for solving the client's requests.<br>
         - Created a Module which uses client's (logistics company) in-home made model to reorganize<br>

@@ -12,7 +12,7 @@ let skills = {
     "Redis:": "⭐⭐⭐ ✰ ✰",
     "Kafka:": "⭐⭐⭐ ✰ ✰",
     "Azure:": "⭐⭐ ✰ ✰ ✰",
-    "Anaconda Enterprise:": "⭐⭐ ✰ ✰ ✰",
+    "Anaconda Enterprise:": "⭐⭐⭐ ✰ ✰",
     "C++:": "⭐⭐⭐ ✰ ✰",
     "C:": "⭐⭐⭐ ✰ ✰",
     "Swift:": "⭐⭐⭐ ✰ ✰",

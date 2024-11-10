@@ -85,6 +85,8 @@ let job_experience = {
         - Created a Module which uses client's (logistics company) in-home made model to reorganize<br>
         &nbsp&nbsp their shipments based on their lines of business<br>
         &nbsp&nbsp&nbsp <em class="remarkable">Python</em><br>
+        - Responsible for setting up and deploying applications in Kubernetes with XLR<br>
+        &nbsp&nbsp and deploying Python apps into Linux server and Anaconda Enterprise
         `
     }
 };

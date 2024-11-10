@@ -81,12 +81,14 @@ let job_experience = {
         period: "19/10/2020 - Actual",
         position: "Python/Software Developer/DevOps",
         description: `
+        Assigned to Schneider Logistics.
         In this position I'm responsible for solving the client's requests.<br>
         - Created a Module which uses client's (logistics company) in-home made model to reorganize<br>
-        &nbsp&nbsp their shipments based on their lines of business<br>
+        &nbsp&nbsp their shipments based on their lines of business.<br>
         &nbsp&nbsp&nbsp <em class="remarkable">Python</em><br>
         - Responsible for setting up and deploying applications in Kubernetes with XLR<br>
-        &nbsp&nbsp and deploying Python apps into Linux server and Anaconda Enterprise
+        and deploying Python apps to Linux servers and Anaconda Enterprise
+        &nbsp&nbsp&nbsp <em class="remarkable">Kubernetes, Azure, Linux</em><br>
         `
     }
 };

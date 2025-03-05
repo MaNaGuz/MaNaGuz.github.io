@@ -5,23 +5,25 @@ let personal_info = {
 };
 
 let skills = {
-    "Python:": "⭐⭐⭐⭐ ✰",
-    "Bash:": "⭐⭐⭐ ✰ ✰",
-    "OracleSQL:": "⭐⭐⭐ ✰ ✰",
-    "MongoDB:": "⭐⭐⭐ ✰ ✰",
-    "Redis:": "⭐⭐⭐ ✰ ✰",
-    "Kafka:": "⭐⭐⭐ ✰ ✰",
-    "Azure:": "⭐⭐ ✰ ✰ ✰",
-    "Anaconda Enterprise:": "⭐⭐⭐ ✰ ✰",
-    "C++:": "⭐⭐⭐ ✰ ✰",
-    "C:": "⭐⭐⭐ ✰ ✰",
-    "Swift:": "⭐⭐⭐ ✰ ✰",
-    "Javascript:": "⭐⭐⭐ ✰ ✰",
-    "HTML:": "⭐⭐⭐ ✰ ✰",
-    "Java:": "⭐⭐ ✰ ✰ ✰",
-    "Objective-C:": "⭐⭐ ✰ ✰ ✰",
-    "Matlab:": "⭐⭐ ✰ ✰ ✰",
-    "assambler:": "⭐ ✰ ✰ ✰ ✰"
+    "Python:": "6 Years",
+    "Bash:": "3 Years",
+    "SnowflakeDB:": "2 Years",
+    "OracleSQL:": "2 Years",
+    "MongoDB:": "2 Years",
+    "Redis:": "1 Year",
+    "Kafka:": "1 Year",
+    "Azure:": "1 Year",
+    "AWS:": "1 Year",
+    "Anaconda Enterprise:": "2 Years",
+    "C++:": "2 Years",
+    "C:": "1 Year",
+    "Swift:": "2 Years",
+    "Javascript:": "1 Year",
+    "HTML:": "1 Year",
+    "Java:": "1 Year",
+    "Objective-C:": "2 Years",
+    "Matlab:": "2 Years",
+    "assambler:": "2 Years"
 }
 
 let job_experience = {
